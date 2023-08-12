@@ -1,0 +1,4 @@
+{
+  "dotnet.defaultSolution": "Restore.sln",
+  "editor.acceptSuggestionOnEnter": "on"
+}
